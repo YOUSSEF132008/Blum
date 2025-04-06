@@ -15,7 +15,7 @@
    git clone https://github.com/bilalrai12/Blum-Bot.git
    cd Blum-Bot
    pip install -r requirements.txt
-   ```
+       ```
 2. **Configuration**
 To Adjust GamePoint, Enable/Disble Tasks, etc..
 ```bash
@@ -37,7 +37,7 @@ nano config.json
 ```
 3. **ADD ACCOUNTS**
    ```
-   nano query.txt
+   nano JOO.txt
    ```
    
 4. **Set Up Proxy (Optional)**  
@@ -51,11 +51,5 @@ nano config.json
    
 5. **START THE BOT**
 ```bash
-python main.py
+python YOUSSEF.py
 ```
-## Buy ME a Coffee
-
-- **BINANCE UID:** 
-1017669342
-
-**BILAL STUDIO**
